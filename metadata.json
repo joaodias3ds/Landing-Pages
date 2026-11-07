@@ -1,0 +1,6 @@
+{
+  "name": "Central de Clientes & Gerador de Landing Pages",
+  "description": "Sistema completo de Central de Clientes, Portal do Cliente e Gerador de Landing Pages com autenticação JWT segura, armazenamento criptografado e suporte a tema escuro automático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
